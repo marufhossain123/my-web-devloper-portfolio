@@ -39,9 +39,9 @@ nav > ul> li > a{
 }
 .header{
     background-color: #fff8f3;
-    background-image: url(../picture/images/header_bg.png);
+    background-image: url('../picture/images/header_bg.png'), url('../picture/images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, bottom left;
 }
 .banner-container{
     display: flex;
